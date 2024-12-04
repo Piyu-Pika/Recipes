@@ -12,42 +12,42 @@
     },
     {
       "foodName": "Vegetable Stir Fry",
-      "imageUrl": "https://example.com/images/vegetable-stirfry.jpg",
+      "imageUrl": "https://www.allrecipes.com/thmb/MF7yU1MBbRlaT40ogVr-1PgggKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222658-frozen-vegetable-stir-fry-4x3-1382-583b53fa0bcd4247920611ad431c14cb.jpg",
       "recipe": "1. Chop assorted vegetables\n2. Heat wok with oil\n3. Stir fry vegetables on high heat\n4. Add soy sauce and sesame oil\n5. Cook for 5-7 minutes\n6. Serve hot with rice"
     },
     {
       "foodName": "Chocolate Chip Cookies",
-      "imageUrl": "https://example.com/images/chocolate-cookies.jpg",
+      "imageUrl": "https://media.istockphoto.com/id/517109442/photo/chocolate-chip-cookie-isolated.jpg?s=612x612&w=0&k=20&c=RgZOYwzVRTXnIBy8zSkXK-wJfNBy9w023UGULkbH_VE=",
       "recipe": "1. Cream butter and sugars\n2. Add eggs and vanilla\n3. Mix dry ingredients separately\n4. Combine wet and dry ingredients\n5. Fold in chocolate chips\n6. Bake at 350°F for 10-12 minutes"
     },
     {
       "foodName": "Caesar Salad",
-      "imageUrl": "https://example.com/images/caesar-salad.jpg",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZrWab0IWO9Jz4esNLrgTMQTWe9QDhLq1UA&s",
       "recipe": "1. Chop romaine lettuce\n2. Prepare Caesar dressing\n3. Grill chicken breast\n4. Toss lettuce with dressing\n5. Top with grilled chicken\n6. Sprinkle parmesan and croutons"
     },
     {
       "foodName": "Beef Tacos",
-      "imageUrl": "https://example.com/images/beef-tacos.jpg",
+      "imageUrl": "https://media.istockphoto.com/id/1333647378/photo/homemade-american-soft-shell-beef-tacos.jpg?s=612x612&w=0&k=20&c=ZHhpFNbH_BO4MaXzmcKLjC4cPRptdXlp6IVUfs1sBEs=",
       "recipe": "1. Brown ground beef\n2. Add taco seasoning\n3. Warm tortillas\n4. Fill with seasoned beef\n5. Top with cheese, lettuce, tomatoes\n6. Serve with salsa and sour cream"
     },
     {
       "foodName": "Sushi Rolls",
-      "imageUrl": "https://example.com/images/sushi-rolls.jpg",
+      "imageUrl": "https://japan.recipetineats.com/wp-content/uploads/2019/07/Take-away-sushi-rolls_3781NM.jpg",
       "recipe": "1. Prepare sushi rice\n2. Lay nori sheet\n3. Spread rice evenly\n4. Add fillings (salmon, cucumber)\n5. Roll tightly\n6. Slice and serve with soy sauce"
     },
     {
       "foodName": "Greek Salad",
-      "imageUrl": "https://example.com/images/greek-salad.jpg",
+      "imageUrl": "https://www.allrecipes.com/thmb/SkWzUVjyC9DRoefa4t7tjkPS0no=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14373-GreekSaladi-mfs-4X3-0354-e8388819cafa4bae843ea433258aa03d.jpg",
       "recipe": "1. Chop cucumbers and tomatoes\n2. Add red onion\n3. Sprinkle feta cheese\n4. Add kalamata olives\n5. Dress with olive oil and oregano\n6. Toss and serve chilled"
     },
     {
       "foodName": "Banana Bread",
-      "imageUrl": "https://example.com/images/banana-bread.jpg",
+      "imageUrl": "https://www.simplyrecipes.com/thmb/qQZKziOB59OIetXjapaxBvrFzZE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Easy-Banana-Bread-LEAD-2-2-63dd39af009945d58f5bf4c2ae8d6070.jpg",
       "recipe": "1. Mash ripe bananas\n2. Mix with butter and sugar\n3. Add eggs and vanilla\n4. Combine dry ingredients\n5. Mix wet and dry ingredients\n6. Bake at 350°F for 50-60 minutes"
     },
     {
       "foodName": "Vegetable Lasagna",
-      "imageUrl": "https://example.com/images/vegetable-lasagna.jpg",
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2023/12/vegetarian-lasagna-scaled.jpg",
       "recipe": "1. Prepare vegetable filling\n2. Make bechamel sauce\n3. Layer lasagna noodles\n4. Add vegetable filling\n5. Top with cheese\n6. Bake at 375°F for 45 minutes"
     }
   ]
